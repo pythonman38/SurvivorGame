@@ -1,0 +1,3 @@
+res://enemies/base_enemy.tscn
+res://abilities/sword_ability_controller.gd
+res://abilities/sword_ability.tscn

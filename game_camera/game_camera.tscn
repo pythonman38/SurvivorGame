@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dusenng40kgl3"]
+
+[ext_resource type="Script" path="res://game_camera/game_camera.gd" id="1_skcc4"]
+
+[node name="GameCamera" type="Camera2D"]
+script = ExtResource("1_skcc4")
